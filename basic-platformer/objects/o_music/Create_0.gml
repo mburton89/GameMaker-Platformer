@@ -1,0 +1,1 @@
+audio_play_sound(a_burt, 20, true);
